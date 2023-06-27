@@ -21,9 +21,9 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/SilesterGold9)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/SilesterGold9)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/SilesterGold9)
-[![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/SilesterGold9)
-[![Scss](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=scss)](https://github.com/SilesterGold9)
+[![Sass/Scss](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/SilesterGold9)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/SilesterGold9)
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/SilesterGold9)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/SilesterGold9)
