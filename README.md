@@ -24,6 +24,7 @@
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/SilesterGold9)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/SilesterGold9)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/SilesterGold9)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/SilesterGold9)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/SilesterGold9)
