@@ -34,8 +34,6 @@
   <img src="https://komarev.com/ghpvc/?username=SilesterGold9&color=blue&style=flat-square" alt="Profile Views">
 </div>
 
----
-
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/silvestre-dourado-b45425307/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
