@@ -14,5 +14,5 @@ I am a passionate Software Developer who enjoys spending countless hours coding
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" />](https://www.linkedin.com/in/silvestre-dourado-b45425307/)
 
 <div align="left">
-  <img src="https://readme-stats-fabio-vicente.vercel.app/api/stats?username=SilesterGold9&PAT_1=" width="400" alt="GitHub Stats Card">
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilesterGold9)](https://github.com/anuraghazra/github-readme-stats)
 </div>
