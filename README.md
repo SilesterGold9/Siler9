@@ -52,7 +52,7 @@ I am a passionate Software Developer who enjoys spending countless hours coding
 ## ⚡ GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilesterGold9&theme=merko" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilesterGold9&theme=vue-dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ I am a passionate Software Developer who enjoys spending countless hours coding
   - 🌱 Always learning new technologies and best practices
   - 👯 I'm looking to collaborate on open source projects
   - 💬 Ask me about JavaScript, React, or web development in general
-  - ⚡ Fun fact: Besides chess, I also enjoy [another hobby or interest]
+  - ⚡ Fun fact: Besides chess, I also enjoy hiking
   
 </details>
 
