@@ -1,45 +1,24 @@
-# Silvestre
+# Hi, I'm Silvestre 👋
 
- Hey there! I'm a developer with a passion for building things.
+I am a passionate Software Developer who enjoys spending countless hours coding
 
-## Tech Stack
+* 💡 I have an entrepreneurial spirit and love learning new technologies
+* 💻 I'm currently working with React, PHP, and various web technologies
+* 🎮 Fun fact: I like to play chess even though I'm not so good
+* ⭐ Learn more about me [here](your-portfolio-or-website-link)
 
-<div class="flex flex-wrap justify-center gap-4">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/sql-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass">
-  <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-</div>
+## Connect with me
 
-## Platforms
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />](your-youtube-link)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />](your-instagram-link)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/silvestre-dourado-b45425307/)
 
-<div class="flex flex-wrap justify-center gap-4">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
-</div>
+## Silvestre's GitHub Stats
 
-## GitHub
+![Total Stars](https://img.shields.io/github/stars/SilesterGold9?style=flat&label=Total%20Stars%20Earned&color=yellow)
+![Total Commits](https://img.shields.io/github/commit-activity/y/SilesterGold9/SilesterGold9?label=Total%20Commits%20(2024)&color=blue)
+![Total PRs](https://img.shields.io/github/issues-pr/SilesterGold9/SilesterGold9?label=Total%20PRs&color=blue)
+![Total Issues](https://img.shields.io/github/issues/SilesterGold9/SilesterGold9?label=Total%20Issues&color=blue)
+![Contributions](https://img.shields.io/github/contributors/SilesterGold9/SilesterGold9?label=Contributed%20to%20(last%20year)&color=blue)
 
-<div class="flex flex-wrap justify-center gap-2">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilesterGold9&hide_border=true&card_width=200&theme=dark" alt="GitHub Streak">
-  <img src="https://komarev.com/ghpvc/?username=SilesterGold9&color=blue&style=flat-square" alt="Profile Views">
-</div>
-
-## Connect
-
-<div class="flex flex-wrap justify-center gap-2">
-  <a href="https://www.linkedin.com/in/silvestre-dourado-b45425307/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/silvestre">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:silvestre@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
+[![GitHub Grade](https://img.shields.io/badge/Grade-A--blue)]()
