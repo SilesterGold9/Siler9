@@ -5,15 +5,15 @@ I am a passionate Software Developer who enjoys spending countless hours coding
 * 💡 I have an entrepreneurial spirit and love learning new technologies
 * 💻 I'm currently working with React, PHP, and various web technologies
 * 🎮 Fun fact: I like to play chess even though I'm not so good
-* ⭐ Learn more about me [here]([(https://github.com/SilesterGold9/)])(soon!)
+* ⭐ Learn more about me [here](https://github.com/SilesterGold9/) (soon!)
 
 ## 🌐 Connect with me
 
 <div align="left">
-  <a href="your-youtube-link" style="text-decoration: none;" target="_blank">
+<!--   <a href="your-youtube-link" style="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
-  </a>
-  <a href="your-instagram-link" style="text-decoration: none;" target="_blank">
+  </a> -->
+  <a href="https://www.instagram.com/silvestre_dourado16/" style="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
   <a href="https://www.linkedin.com/in/silvestre-dourado-b45425307/" style="text-decoration: none;" target="_blank">
