@@ -5,7 +5,7 @@ I am a passionate Software Developer who enjoys spending countless hours coding
 * 💡 I have an entrepreneurial spirit and love learning new technologies
 * 💻 I'm currently working with React, PHP, and various web technologies
 * 🎮 Fun fact: I like to play chess even though I'm not so good
-* ⭐ Learn more about me [here]([your-portfolio-or-website-link](https://github.com/SilesterGold9/) (soon!)
+* ⭐ Learn more about me [here]([(https://github.com/SilesterGold9/)])(soon!)
 
 ## 🌐 Connect with me
 
