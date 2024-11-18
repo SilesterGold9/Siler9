@@ -24,17 +24,23 @@ I am a passionate Software Developer who enjoys spending countless hours coding
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilesterGold9&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SilesterGold9&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=SilesterGold9&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=SilesterGold9&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Profile Trophy
+--- 
 
+## 🏆 GitHub Profile Trophy
+<details>
+    <summary>✨ Wanna see more?</summary>
+    <br>
+    
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=SilesterGold9&theme=nord&column=7&margin-w=10&margin-h=10" />
   </a>
 </p>
+</details>
 
 ---
 
