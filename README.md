@@ -57,7 +57,7 @@ I am a passionate Software Developer who enjoys spending countless hours coding
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=SilesterGold9&color=green&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=SilesterGold9&color=blue&style=flat-square&label=Profile+Views" />
 </div>
 
 <!--
