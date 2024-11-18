@@ -28,10 +28,10 @@ I am a passionate Software Developer who enjoys spending countless hours coding
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SilesterGold9&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
+---
 
-## 🏆 GitHub Profile Trophy
 <details>
-    <summary>✨ Wanna see more?</summary>
+    <summary>🏆 GitHub Profile Trophy</summary>
     <br>
     
 <p align="center">
