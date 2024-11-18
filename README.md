@@ -32,7 +32,7 @@ I am a passionate Software Developer who enjoys spending countless hours coding
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SilesterGold9&theme=dracula&column=7&margin-w=10&margin-h=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SilesterGold9&theme=matrix&column=7&margin-w=10&margin-h=10" />
   </a>
 </p>
 
