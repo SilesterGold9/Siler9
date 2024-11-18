@@ -24,8 +24,8 @@ I am a passionate Software Developer who enjoys spending countless hours coding
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilesterGold9&show_icons=true&theme=vue-dark&hide_border&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilesterGold9&layout=compact&langs_count=7&theme=merko&hide_border"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilesterGold9&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SilesterGold9&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Profile Trophy
@@ -34,12 +34,6 @@ I am a passionate Software Developer who enjoys spending countless hours coding
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=SilesterGold9&theme=alduin&column=7&margin-w=10&margin-h=10" />
   </a>
-</p>
-
-## ⚡ GitHub Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilesterGold9&theme=vue-dark" alt="GitHub Streak" />
 </p>
 
 ---
